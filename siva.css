@@ -1,0 +1,22 @@
+body{
+	text-align:center;
+	background-image:url(5.jpg);
+	background-position:center;
+	background-size:cover;
+	color:#ECF0F1;  
+	margin-top:90px;
+	padding-top:-20px;
+
+}
+.form{
+	width:450px;
+	height:600px;
+	border:5px solid white;
+	margin-left:450px;
+	margin-top:30px;
+	font-family:sans-serif;
+	padding-left:30px;
+	padding-top:-50px;
+	font-size:25px;
+	background:rgba(0,0,0,0.5);
+}
